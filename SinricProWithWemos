@@ -10,8 +10,8 @@
 #include "SinricPro.h"
 #include "SinricProSwitch.h"
 
-#define WIFI_SSID         "wINTERNETisComing"    
-#define WIFI_PASS         "old_Mcd0nald"
+#define WIFI_SSID         "DevFest"    
+#define WIFI_PASS         "d3vF35t"
 #define APP_KEY           "20e8213d-cbe5-424a-958a-53fbb04c7390"
 #define APP_SECRET        "cfd88b67-400d-454c-87ea-eaf6c9bc818b-bf82deb5-147b-4424-9454-a6638f4c8fd8"
 
